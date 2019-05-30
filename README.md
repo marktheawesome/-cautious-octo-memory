@@ -14,13 +14,13 @@ My original idea was to copy New Super Mario Bros. DS. With the unfortunate turn
 
 
 ### Gameplay
-
-Controls:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D: Move Right
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: Move Left
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S: Crouch
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPACE: Jump
-
+<p>
+Controls: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D: Move Right<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: Move Left<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S: Crouch<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPACE: Jump<br>
+</p>
 Health:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I do not have the different character sprites to indicate health, I will use hearts in one of the corners to do this. When you have no more hearts you die. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flower: Gives Three (3) hearts
