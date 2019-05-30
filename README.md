@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my 2D platformer 
 
-You can use the [editor on GitHub](https://github.com/marktheawesome/-cautious-octo-memory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I made this game for my Computer programming class in high school. I am a junior at J.L. Mann in South Carolina. Thank you for playing my game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I had attempted this project before, I was using [Unreal Engine 4](https://www.unrealengine.com/en-US/). However, when I tried to initialize the git repository, I was not paying attention and erased the whole project the day before it was due. After a good cry, curse words, and my new favorite vodka, [Ketel one](https://www.ketelone.com). This is a quick and dirty attempt to remake what I had. This time I will be using [Python](https://www.python.org) and [Pygame](https://www.pygame.org/news) to make it.
+
+
+### Description
+
+My game is based on New Super Mario Bros on the DS.  
 
 ```markdown
 Syntax highlighted code block
