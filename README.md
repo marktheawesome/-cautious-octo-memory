@@ -32,7 +32,7 @@ Health: <br>
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/marktheawesome/-cautious-octo-memory/master/screenshots/startScreen.jpg "startScreen")
 
-![alt text](https://raw.githubusercontent.com/marktheawesome/-cautious-octo-memory/master/screenshots/gameplay001.jpg"gamePlay")
+![alt text](https://raw.githubusercontent.com/marktheawesome/-cautious-octo-memory/master/screenshots/gameplay001.jpg "gamePlay")
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
