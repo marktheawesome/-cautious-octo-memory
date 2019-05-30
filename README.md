@@ -30,7 +30,7 @@ Health: <br>
 </p>
 
 ### Screenshots
-![alt text](https://github.com/marktheawesome/-cautious-octo-memory/blob/master/screenshots/startScreen.jpg "startScreen")
+![alt text](https://raw.githubusercontent.com/marktheawesome/-cautious-octo-memory/master/screenshots/startScreen.jpg "startScreen")
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
