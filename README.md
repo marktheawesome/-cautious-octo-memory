@@ -21,11 +21,13 @@ Controls: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S: Crouch<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPACE: Jump<br>
 </p>
-Health:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I do not have the different character sprites to indicate health, I will use hearts in one of the corners to do this. When you have no more hearts you die. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flower: Gives Three (3) hearts
+
+<p>
+Health: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I do not have the different character sprites to indicate health, I will use hearts in one of the corners to do this. When you have no more hearts you die. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flower: Gives Three (3) hearts <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mushroom: Gives you Two (2) hearts 
-	
+</p>
 
 
 ```markdown
